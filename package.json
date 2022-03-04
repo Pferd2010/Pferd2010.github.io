@@ -25,7 +25,7 @@
     "gulp-svgmin": "^1.2.2",
     "gulp-svgstore": "^6.1.0",
     "gulp-uglify": "^2.0.0",
-    "imagemin-pngquant": "^5.0.0",
+    "imagemin-pngquant": "^9.0.2",
     "jquery": "^3.2.1",
     "webpack-stream": "^3.2.0"
   },
